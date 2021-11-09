@@ -1,4 +1,4 @@
-package exemplos;
+//package exemplos;
 
 /*
     Este é meu primeiro programa Java
